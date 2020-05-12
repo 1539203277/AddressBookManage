@@ -1,0 +1,2 @@
+D:\VS\wyProjects\AddressBook1.0\Debug\AddressBook1.0.exe
+D:\VS\wyProjects\AddressBook1.0\Debug\AddressBook1.0.pdb

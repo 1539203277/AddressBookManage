@@ -1,0 +1,4 @@
+﻿  Mnue.cpp
+D:\VS\wyProjects\AddressBook1.0\Mnue.cpp(82,10): warning C4101: “sex”: 未引用的局部变量
+D:\VS\wyProjects\AddressBook1.0\Mnue.cpp(83,9): warning C4101: “age”: 未引用的局部变量
+  AddressBook1.0.vcxproj -> D:\VS\wyProjects\AddressBook1.0\Debug\AddressBook1.0.exe
